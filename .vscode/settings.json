@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "time.h": "c"
+    },
+    "cmake.sourceDirectory": "F:/Projects/fds-challenge/libs/cJSON"
+}
